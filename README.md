@@ -1,4 +1,4 @@
-# Projeto Sistema Bancário
+# Projeto Sistema Bancário 💰
 
 # Sobre o Projeto
 Consiste em desafios desenvolvidos durante o **Bootcamp Python IA Back-end Developer** da [Digital Innovation One](https://www.dio.me/). A cada desafio é aplicado os conceitos estudados e progredida a complexidade da lógica de desenvolvimento.
